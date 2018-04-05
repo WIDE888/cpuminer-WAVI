@@ -1,4 +1,4 @@
-This is a multi-threaded CPU miner for Litecoin and Bitcoin and PPTP,
+This is a multi-threaded CPU miner for Litecoin and Bitcoin and WAVI,
 fork of Jeff Garzik's reference cpuminer.
 
 License: GPLv2.  See COPYING for details.
@@ -136,6 +136,6 @@ dedicated to this program,
 Donations
 ---------
 
-PPTP : PX4kFSBTC2LLn8huwKmJEiss9xNTLaoBzc
+YENTEN : YSdjxmBANEyvTTpaCPKjnLkdCtg8CgcpT9
 
 Happy mining!
