@@ -1900,8 +1900,8 @@ static void signal_handler(int sig)
 
 static void show_credits()
 {
-	printf("** " PACKAGE_NAME " " PACKAGE_VERSION " by macchky@github **\n");
-	printf("ZNY donation address: Zq83XMtc9gShkgi4bNNHWA4FDbMe8dFQmD (macchky)\n\n");
+	printf("** " PACKAGE_NAME " " PACKAGE_VERSION " by WIDE888@github **\n");
+	printf("PPTP donation address: PX4kFSBTC2LLn8huwKmJEiss9xNTLaoBzc (WIDE888)\n\n");
 }
 
 int main(int argc, char *argv[])
