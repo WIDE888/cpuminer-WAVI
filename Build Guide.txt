@@ -1,8 +1,8 @@
-¡Build for Linux
+¡Build for Debian Linux
 
    apt-get update
    apt-get install git automake gcc make libcurl4-openssl-dev libjansson-dev
-   git clone https://github.com/WIDE888/cpuminer-xxxx.git
+   git clone https://github.com/WIDE888/cpuminer-wavi.git
    cd cpuminer
    
    ./build.sh
@@ -39,8 +39,6 @@
 
    apt update && apt upgrade
    apt -y install nano git clang openssl-dev libcurl-dev libtool libjansson-dev automake
-   git clone https://github.com/WIDE888/cpuminer-wavi.git
-   cd cpuminer
    
    #Modify syslog.h and comment out the following three lines.
    nano ../usr/include/syslog.h
